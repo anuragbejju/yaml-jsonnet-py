@@ -458,6 +458,7 @@ def convert_yaml_to_jsonnet(file, initialize=settings["initialize"]):
 
     complete_jsonnet = "".join(final_op_lines)
     complete_jsonnet = complete_jsonnet.replace("\n\n//", "\n//")
+    complete_jsonnet = complete_jsonnet.replace("\n\n|||", "\n|||")
 
     # Write the output to jsonnet file
 
