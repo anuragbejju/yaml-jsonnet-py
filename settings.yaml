@@ -1,0 +1,5 @@
+reference_file: "files/default_reference.csv"
+output_path: "files/output/"
+input_path: "files/input/"
+ground_path: "files/ground/"
+initialize: False
