@@ -5,4 +5,5 @@ bson
 benedict
 pandas
 glob2
+tqdm
 collections
