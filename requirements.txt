@@ -1,9 +1,8 @@
 yaml2jsonnet
 PyYAML
 deepdiff
-bson
-benedict
+pymongo
+python-benedict
 pandas
 glob2
 tqdm
-collections
